@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrisqcwx&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chrisqcwx&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chrisqcwx&column=7)](https://github.com/Chrisqcwx)
+
 ## <center> Visitor Count
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Chrisqcwx/count.svg" />
