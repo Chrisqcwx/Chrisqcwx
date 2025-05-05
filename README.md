@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me yuhongyao@stu.hit.edu.cn
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrisqcwx&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chrisqcwx&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrisqcwx&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chrisqcwx&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisqcwx&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <!--
