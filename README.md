@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Hongyao Yu, a fourth-year undergraduate student at Harbin Institude of Technology, Shenzhen, computer science and technology
 - 👀 I’m interested in AI safety and generative models
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me yuhongyao@stu.hit.edu.cn
+- 📫 How to reach me chrisqcwx@gmail.com
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrisqcwx&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chrisqcwx&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
